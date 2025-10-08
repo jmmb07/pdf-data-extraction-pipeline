@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+
+# Pastas de IDEs e Editores
+.vscode/
+.idea/
+
+# Arquivos gerados pelo seu script de extração
+# para não enviar os dados brutos ou processados para o repositório
+data/raw/
+data/tmp_ocr/
+data/db/
